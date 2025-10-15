@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sreeram2001/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/sreeram2001/LeetCode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
