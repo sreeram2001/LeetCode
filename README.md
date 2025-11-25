@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sreeram2001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/sreeram2001/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sreeram2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sliding Window
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sreeram2001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sreeram2001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sreeram2001/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
