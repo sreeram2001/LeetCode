@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sreeram2001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/sreeram2001/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/sreeram2001/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sreeram2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sliding Window
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sreeram2001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/sreeram2001/LeetCode/tree/master/0263-ugly-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/sreeram2001/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
