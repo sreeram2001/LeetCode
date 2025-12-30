@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sreeram2001/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/sreeram2001/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sreeram2001/LeetCode/tree/master/0739-daily-temperatures) |
+| [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/sreeram2001/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/sreeram2001/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sreeram2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sreeram2001/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sreeram2001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sreeram2001/LeetCode/tree/master/0567-permutation-in-string) |
+| [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/sreeram2001/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sreeram2001/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sreeram2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/sreeram2001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/sreeram2001/LeetCode/tree/master/0263-ugly-number) |
+| [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sreeram2001/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Sorting
 |  |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sreeram2001/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeram2001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
