@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/sreeram2001/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/sreeram2001/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreeram2001/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/sreeram2001/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sreeram2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sreeram2001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/sreeram2001/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sreeram2001/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreeram2001/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sreeram2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Sliding Window
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/sreeram2001/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreeram2001/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sreeram2001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreeram2001/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
