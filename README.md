@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sreeram2001/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sreeram2001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sreeram2001/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0645-set-mismatch](https://github.com/sreeram2001/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sreeram2001/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/sreeram2001/LeetCode/tree/master/0739-daily-temperatures) |
 | [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sreeram2001/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sreeram2001/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sreeram2001/LeetCode/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/sreeram2001/LeetCode/tree/master/0645-set-mismatch) |
 | [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0904-fruit-into-baskets](https://github.com/sreeram2001/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sreeram2001/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sreeram2001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/sreeram2001/LeetCode/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/sreeram2001/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreeram2001/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sreeram2001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreeram2001/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/sreeram2001/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
