@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/sreeram2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sreeram2001/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/sreeram2001/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sreeram2001/LeetCode/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeram2001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sreeram2001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/sreeram2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/sreeram2001/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sreeram2001/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sreeram2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sreeram2001/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sreeram2001/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sreeram2001/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sreeram2001/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/sreeram2001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/sreeram2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/sreeram2001/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreeram2001/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
