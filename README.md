@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/sreeram2001/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sreeram2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sreeram2001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreeram2001/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/sreeram2001/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Hash Table
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/sreeram2001/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreeram2001/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sreeram2001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreeram2001/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sreeram2001/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/sreeram2001/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sreeram2001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreeram2001/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sreeram2001/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeram2001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sreeram2001/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Matrix
 |  |
 | ------- |
