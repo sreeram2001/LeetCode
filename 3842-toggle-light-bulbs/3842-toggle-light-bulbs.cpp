@@ -1,0 +1,23 @@
+class Solution {
+public:
+    vector<int> toggleLightBulbs(vector<int>& bulbs) {
+        
+        map<int, int> mp;
+        vector<int> op;
+
+        for(int i=0;i<bulbs.size();i++)
+        {
+            mp[bulbs[i]]++;
+        }
+
+        for(auto it:mp)
+        {
+            if(it.second%2 != 0)
+            {
+                op.push_back(it.first);
+            }
+        }
+
+        return op;
+    }
+};
