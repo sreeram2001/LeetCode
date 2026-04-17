@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sreeram2001/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2762-continuous-subarrays](https://github.com/sreeram2001/LeetCode/tree/master/2762-continuous-subarrays) |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/sreeram2001/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreeram2001/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
