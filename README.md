@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sreeram2001/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sreeram2001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sreeram2001/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sreeram2001/LeetCode/tree/master/0036-valid-sudoku) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sreeram2001/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/sreeram2001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sreeram2001/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/sreeram2001/LeetCode/tree/master/0075-sort-colors) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sreeram2001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/sreeram2001/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/sreeram2001/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sreeram2001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
