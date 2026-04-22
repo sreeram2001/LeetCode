@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sreeram2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sreeram2001/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/sreeram2001/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sreeram2001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sreeram2001/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sreeram2001/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sreeram2001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sreeram2001/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/sreeram2001/LeetCode/tree/master/0704-binary-search) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sreeram2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sreeram2001/LeetCode/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/sreeram2001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 ## Counting Sort
 |  |
