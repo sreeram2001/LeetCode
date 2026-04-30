@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sreeram2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sreeram2001/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sreeram2001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sreeram2001/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sreeram2001/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/sreeram2001/LeetCode/tree/master/0066-plus-one) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sreeram2001/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/sreeram2001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sreeram2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sreeram2001/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sreeram2001/LeetCode/tree/master/0198-house-robber) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sreeram2001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/sreeram2001/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
