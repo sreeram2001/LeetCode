@@ -3,7 +3,7 @@ public:
     vector<string> uncommonFromSentences(string s1, string s2) {
         
         string comb = s1 + " " + s2;
-        map<string, int> freq;
+        unordered_map<string, int> freq;
         vector<string> op;
 
         string curr = "";
