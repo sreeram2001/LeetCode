@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/sreeram2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/sreeram2001/LeetCode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/sreeram2001/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sreeram2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sreeram2001/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sreeram2001/LeetCode/tree/master/0056-merge-intervals) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sreeram2001/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sreeram2001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/sreeram2001/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sreeram2001/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sreeram2001/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sreeram2001/LeetCode/tree/master/0070-climbing-stairs) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sreeram2001/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/sreeram2001/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sreeram2001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sreeram2001/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
