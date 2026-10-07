@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sreeram2001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sreeram2001/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sreeram2001/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sreeram2001/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sreeram2001/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sreeram2001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/sreeram2001/LeetCode/tree/master/0396-rotate-function) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sreeram2001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sreeram2001/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sreeram2001/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sreeram2001/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sreeram2001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/sreeram2001/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sreeram2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sreeram2001/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/sreeram2001/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/sreeram2001/LeetCode/tree/master/0268-missing-number) |
 | [0396-rotate-function](https://github.com/sreeram2001/LeetCode/tree/master/0396-rotate-function) |
 | [0840-magic-squares-in-grid](https://github.com/sreeram2001/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sreeram2001/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sreeram2001/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sreeram2001/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sreeram2001/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sreeram2001/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sreeram2001/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sreeram2001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/sreeram2001/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sreeram2001/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sreeram2001/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/sreeram2001/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sreeram2001/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sreeram2001/LeetCode/tree/master/0704-binary-search) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sreeram2001/LeetCode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sreeram2001/LeetCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/sreeram2001/LeetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/sreeram2001/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/sreeram2001/LeetCode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
