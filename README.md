@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sreeram2001/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sreeram2001/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2404-most-frequent-even-element](https://github.com/sreeram2001/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sreeram2001/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2762-continuous-subarrays](https://github.com/sreeram2001/LeetCode/tree/master/2762-continuous-subarrays) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/sreeram2001/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sreeram2001/LeetCode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sreeram2001/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sreeram2001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2404-most-frequent-even-element](https://github.com/sreeram2001/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sreeram2001/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/sreeram2001/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sreeram2001/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sreeram2001/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2404-most-frequent-even-element](https://github.com/sreeram2001/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sreeram2001/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/sreeram2001/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Bit Manipulation
